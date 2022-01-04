@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyks118%2Fhit-counter&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Discord Server](https://img.shields.io/badge/Talk-Discord%20Server-%235865f2?style=flat-square)](https://discord.gg/dZFASsU)
-[![DEV OS](https://img.shields.io/badge/Development%20OS-macOS-%23000000?style=flat-square)](https://www.apple.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pure_ani?label=Twitter&color=1da1f2&style=flat-square)](https://twitter.com/pure_ani)
+-->
+[![Profile Views](https://komarev.com/ghpvc?username=yks118&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Discord Server](https://img.shields.io/discord/667756182043361300?label=Discord&color=5865f2&style=flat-square)](https://discord.gg/dZFASsU)
+[![Development OS](https://img.shields.io/badge/Development%20OS-macOS-%23000000?style=flat-square)](https://www.apple.com)
 [![PhpStorm](https://img.shields.io/badge/JetBrains-PhpStorm-%23000000?style=flat-square)](https://www.jetbrains.com/phpstorm)
 [![PHP](https://img.shields.io/badge/Programming%20Language-PHP-%23777bb4?style=flat-square)](https://www.php.net)
 [![CodeIgniter](https://img.shields.io/badge/Framework-CodeIgniter-%23ef4223?style=flat-square)](https://codeigniter.com)
@@ -24,6 +28,7 @@ Here are some ideas to get you started:
 [![Redis](https://img.shields.io/badge/Cache-Redis-%23dc382d?style=flat-square)](https://redis.io)
 [![Adobe Creative Cloud](https://img.shields.io/badge/Adobe-Creative%20Cloud-%23da1f26?style=flat-square)](https://www.adobe.com/creativecloud.html)
 [![Amazon Route 53](https://img.shields.io/badge/DNS-Amazon%20Route%2053-%23232f3e?style=flat-square)](https://aws.amazon.com/route53)
+[![Development VPS](https://img.shields.io/badge/Development%20VPS-ConoHa%20WING-%2312b8d7?style=flat-square)](https://www.conoha.jp/conoha)
 [![Amazon Lightsail](https://img.shields.io/badge/VPS-Amazon%20Lightsail-%23232f3e?style=flat-square)](https://aws.amazon.com/lightsail)
 [![Vultr](https://img.shields.io/badge/VPS-Vultr-%23007bfc?style=flat-square)](https://www.vultr.com)
 [![DigitalOcean](https://img.shields.io/badge/VPS-DigitalOcean-%230080ff?style=flat-square)](https://www.digitalocean.com)
