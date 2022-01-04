@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [![Vultr](https://img.shields.io/badge/VPS-Vultr-%23007bfc?style=flat-square)](https://www.vultr.com)
 [![DigitalOcean](https://img.shields.io/badge/VPS-DigitalOcean-%230080ff?style=flat-square)](https://www.digitalocean.com)
 [![Wasabi S3](https://img.shields.io/badge/S3-Wasabi%20S3-%2350b84d?style=flat-square)](https://wasabi.com)
+[![KeyCDN](https://img.shields.io/badge/CDN-KeyCDN-%23047aed?style=flat-square)](https://www.keycdn.com)
 [![ClickUp](https://img.shields.io/badge/Task-ClickUp-%237b68ee?style=flat-square)](https://clickup.com)
 [![Adobe Creative Cloud](https://img.shields.io/badge/Adobe-Creative%20Cloud-%23da1f26?style=flat-square)](https://www.adobe.com/creativecloud.html)
 [![Office](https://img.shields.io/badge/Office-Microsoft%20365%20Family-%23d83b01?style=flat-square)](https://www.microsoft.com/microsoft-365)
