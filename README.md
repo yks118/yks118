@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![Amazon Lightsail](https://img.shields.io/badge/VPS-Amazon%20Lightsail-%23232f3e?style=flat-square)](https://aws.amazon.com/lightsail)
 [![Vultr](https://img.shields.io/badge/VPS-Vultr-%23007bfc?style=flat-square)](https://www.vultr.com)
 [![DigitalOcean](https://img.shields.io/badge/VPS-DigitalOcean-%230080ff?style=flat-square)](https://www.digitalocean.com)
-[![Linode](https://img.shields.io/badge/VPS-Linode-%23#00A95C?style=flat-square)](https://www.linode.com)
+[![Linode](https://img.shields.io/badge/VPS-Linode-%2300A95C?style=flat-square)](https://www.linode.com)
 [![Wasabi S3](https://img.shields.io/badge/S3-Wasabi%20S3-%2350b84d?style=flat-square)](https://wasabi.com)
 [![KeyCDN](https://img.shields.io/badge/CDN-KeyCDN-%23047aed?style=flat-square)](https://www.keycdn.com)
 [![ClickUp](https://img.shields.io/badge/Task-ClickUp-%237b68ee?style=flat-square)](https://clickup.com)
