@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyks118%2Fhit-counter&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pure_ani?label=Twitter&color=1da1f2&style=flat-square)](https://twitter.com/pure_ani)
+[![KeyCDN](https://img.shields.io/badge/CDN-KeyCDN-%23047aed?style=flat-square)](https://www.keycdn.com)
 -->
 [![Profile Views](https://komarev.com/ghpvc?username=yks118&label=Profile+Views&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
 [![Discord Server](https://img.shields.io/discord/667756182043361300?label=Discord&color=5865f2&style=flat-square)](https://discord.gg/dZFASsU)
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 [![DigitalOcean](https://img.shields.io/badge/VPS-DigitalOcean-%230080ff?style=flat-square)](https://www.digitalocean.com)
 [![Linode](https://img.shields.io/badge/VPS-Linode-%2300A95C?style=flat-square)](https://www.linode.com)
 [![Wasabi S3](https://img.shields.io/badge/S3-Wasabi%20S3-%2350b84d?style=flat-square)](https://wasabi.com)
-[![KeyCDN](https://img.shields.io/badge/CDN-KeyCDN-%23047aed?style=flat-square)](https://www.keycdn.com)
+[![BunnyCDN](https://img.shields.io/badge/CDN-BunnyCDN-%23ffa44b?style=flat-square)](https://bunny.net)
 [![ClickUp](https://img.shields.io/badge/Task-ClickUp-%237b68ee?style=flat-square)](https://clickup.com)
 [![Adobe Creative Cloud](https://img.shields.io/badge/Adobe-Creative%20Cloud-%23da1f26?style=flat-square)](https://www.adobe.com/creativecloud.html)
 [![Office](https://img.shields.io/badge/Office-Microsoft%20365%20Family-%23d83b01?style=flat-square)](https://www.microsoft.com/microsoft-365)
